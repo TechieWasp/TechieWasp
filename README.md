@@ -16,10 +16,6 @@ Skills: HTML / CSS / JavaScrips / WordPress / Python / Django
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechieWasp)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TechieWasp&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TechieWasp&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TechieWasp)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TechieWasp)  
-
-![Profile views](https://gpvc.arturio.dev/TechieWasp)  
+![Profile views](https://gpvc.arturio.dev/TechieWasp)
