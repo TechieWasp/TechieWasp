@@ -2,7 +2,7 @@
 #### and nothing special about me
 After spending more than a decade in the teaching and content marketing sectors, I have finally dived into programming to feed my hungry mind and pursue the happiness I find in this field.
 
-Skills: HTML / CSS / JavaScrips / WordPress / Python / Django
+Skills: HTML / CSS / JavaScrips / WordPress / Shopify / Python / Django
 
 - 🔭 I’m currently working on some Django projects 
 - 🌱 I’m currently learning advanced Django 
